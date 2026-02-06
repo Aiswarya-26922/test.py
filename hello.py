@@ -1,2 +1,5 @@
-print('Hello GitHub')
-print("This is a second commit")
+hungry=input("are you hungry?:")
+if hungry=="yes":
+    print("eat fruits")
+else:
+    print("Do homework")
